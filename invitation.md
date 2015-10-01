@@ -28,6 +28,9 @@ Awards will be given to the top teams!
 
 # Notes
 * Check the schedule for an open evening for dinner discussion.
+09876543210987654321098765432109876543210987654321098765432109876543210987654321
+* Also, let's try to work around the talks/presentations schedule of the rest 
+  of the conference. This was relatively problematic for the workshop in 2015.
 * Do we offer prizes?
 * Will the winners be acknowledged at the banquet?
 
