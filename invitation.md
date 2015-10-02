@@ -20,8 +20,8 @@ accuracy in localizing the device, based on sensor data.
 Awards will be given to the top teams! 
 
 ## Overview of Challenges
-* accelerometers and gyroscope only
-* accelerometers, gyroscope and WiFi Beacons
+* accelerometers, gyroscope, compass only
+* accelerometers, gyroscope, compass and WiFi Beacons
 * other sensors?
 
 ------
