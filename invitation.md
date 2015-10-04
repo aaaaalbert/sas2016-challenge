@@ -28,7 +28,6 @@ Awards will be given to the top teams!
 
 # Notes
 * Check the schedule for an open evening for dinner discussion.
-09876543210987654321098765432109876543210987654321098765432109876543210987654321
 * Also, let's try to work around the talks/presentations schedule of the rest 
   of the conference. This was relatively problematic for the workshop in 2015.
 * Do we offer prizes?
@@ -44,6 +43,11 @@ were to participate, what additional sensor data would you want to use? The
 goal will be to estimate the final position of the device as closely as 
 possible.
 The indoor environment is a multilevel museum.
+
+List of addresses: 
+parnandi@usc.edu; hienle@usc.edu; pvaghela@usc.edu; kolli@usc.edu; dantu@usc.edu; sameera@usc.edu;
+gaurav@usc.edu;
+
 
 ------
 
